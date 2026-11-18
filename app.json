@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "ALEX",
+    "slug": "alex-coming-soon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#080811",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#080811"
+    },
+    "android": {
+      "package": "com.alex.app",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.alex.app"
+    }
+  }
+}
